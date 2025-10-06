@@ -1,5 +1,4 @@
-## Hi there 👋
-Little mscgww website
+## welcome
 <!--
 
-Little mscgww website
+this is a little mscgww website
