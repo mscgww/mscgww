@@ -114,3 +114,33 @@ h2 {
         margin-left: 10px;
     }
 }
+/* Copyright footer styles */
+.copyright {
+    text-align: center;
+    margin-top: 60px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+    border-top: 1px solid #ddd;
+}
+
+.copyright-footer {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+    border-top: 1px solid #ddd;
+    background-color: #f8f9fa;
+    margin-top: 40px;
+}
+
+/* For sticky footer option */
+.main-content {
+    min-height: calc(100vh - 80px);
+}
+
+.copyright-footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
